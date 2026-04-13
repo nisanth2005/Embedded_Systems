@@ -4,6 +4,7 @@
 This project demonstrates how to build an object counting system using an ESP32, an IR sensor, and a 16x2 LCD display with I2C communication. The IR sensor detects objects passing in front of it, and the ESP32 increments the count accordingly. The count value is displayed in real-time on the LCD screen.
 
 3. Components Required
+4. 
 ESP32 (WROOM module)
 IR Sensor module
 16x2 LCD display
@@ -11,7 +12,7 @@ I2C LCD backpack module (PCF8574)
 Jumper wires
 Breadboard (optional)
 
-4. Circuit Connections
+5. Circuit Connections
    
 Component	          Pin	              ESP32 Pin
 LCD               	VCC	                5V
